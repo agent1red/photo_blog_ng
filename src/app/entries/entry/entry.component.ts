@@ -10,8 +10,8 @@ export class EntryComponent {
     photo: string = 'http://placehold.it/800x500?text= Angular Basics';
     description: string = 'A description of my First photo';
     comments: any[] = [
-        {name: "John", comment: " A comment"},
-        {name: "Jim", comment: " A comment"},
-        {name: "jen", comment: " A comment"}
+        {name: "John", comment: " A comment here"},
+        {name: "Jim", comment: " A comment here"},
+        {name: "jen", comment: " A comment here"}
     ]
 }
