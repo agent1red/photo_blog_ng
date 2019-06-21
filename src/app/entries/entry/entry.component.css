@@ -1,3 +1,10 @@
+h2 {
+    font-size: 1.4em;
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 figure {
     margin: 0;
     border: 1px solid #000;
@@ -16,7 +23,7 @@ figcaption {
 }
 
 img {
-    dsiplay: block;
+    display: block;
     width: 100%;
     height: auto;
 }
