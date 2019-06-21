@@ -1,4 +1,4 @@
-
+﻿
     <h2>{{title}}</h2>
 
     <figure>
@@ -6,3 +6,8 @@
         <img src="{{photo}}" />
         <figcaption>{{description}}</figcaption>     
     </figure>
+    <div class="actions">
+        <button type="button" (click)="isLiked = !isLiked" [ngClass]="{liked: isLiked}">❤</button>
+
+    </div>
+    
