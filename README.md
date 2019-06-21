@@ -1,2 +1,5 @@
-# photo_blog_ng
-Angular class team treehouse
+# Photo Blog
+
+1. Clone the repository
+2. Run `npm install`
+3. Start the server `npm run serve`
