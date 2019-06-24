@@ -7,3 +7,7 @@
    -a.`npm install @angular/http@2.4.2 --save --save-exact`
    -b.`npm install file-loader --save --save-exact`
    -c. npm install @angular/formsp@2.4.2 --save --save-exact`
+
+1. First list item
+    - First nested list item
+    - Second nested list item
